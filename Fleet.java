@@ -1,11 +1,3 @@
-/*
-Jun Abad
-rbr028
-CS-3443
-10/19/2020
-Lab3
-*/
-
 /**
 *  Fleet.java
 *  Class representing a Fleet object. 
