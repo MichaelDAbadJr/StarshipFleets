@@ -1,11 +1,3 @@
-/*
-Jun Abad
-rbr028
-CS-3443
-10/19/2020
-Lab3
-*/
-
 /**
 *  CrewMember.java
 *  Class representing a CrewMember object. 
